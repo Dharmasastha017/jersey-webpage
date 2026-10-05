@@ -1,10 +1,14 @@
 import { Jersey } from '../types/jersey';
+import heroImg from '../assets/images/hero_jersey_editorial_1791195393853.jpg';
+import retroImg from '../assets/images/product_classic_retro_kit_1791195415015.jpg';
+import nationalImg from '../assets/images/product_national_kit_1791195431324.jpg';
+import customImg from '../assets/images/custom_kit_station_1791195444499.jpg';
 
-// Generated high-fidelity image assets
-export const HERO_IMAGE = '/src/assets/images/hero_jersey_editorial_1791195393853.jpg';
-export const RETRO_PRODUCT_IMAGE = '/src/assets/images/product_classic_retro_kit_1791195415015.jpg';
-export const NATIONAL_PRODUCT_IMAGE = '/src/assets/images/product_national_kit_1791195431324.jpg';
-export const CUSTOM_STATION_IMAGE = '/src/assets/images/custom_kit_station_1791195444499.jpg';
+// Generated high-fidelity image assets bundled by Vite
+export const HERO_IMAGE = heroImg;
+export const RETRO_PRODUCT_IMAGE = retroImg;
+export const NATIONAL_PRODUCT_IMAGE = nationalImg;
+export const CUSTOM_STATION_IMAGE = customImg;
 
 export const JERSEYS_DATA: Jersey[] = [
   {
