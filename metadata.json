@@ -1,0 +1,6 @@
+{
+  "name": "Curva Kits - Curated Football Jerseys & Retro Archive",
+  "description": "Authentic football jerseys, vintage archive shirts, custom name & number printing, and matchday kits from around the world.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
